@@ -5,4 +5,4 @@
 
 [Техническое задание](Техническое_задание.md)
 
-https://www.sportmaster.ru/?utm_referrer=https%3A%2F%2Fyandex.ru%2F
+https://www.sportmaster.ru/
